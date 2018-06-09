@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT54
+D schottky barrier diode
+K schottky diode
+F http://www.diodes.com/_files/datasheets/ds11005.pdf
+$ENDCMP
+#
+$CMP L_dual
+D Transformer, single primary, single secondary
+K transformer coil magnet
+F ~
+$ENDCMP
+#
+$CMP Opamp_LM6142
+D Dual Opamp, SOIC-8/DIP-8/SSOP-8/TO-99
+K dual opamp
+F ~
+$ENDCMP
+#
+$CMP Opamp_OPA313
+D Dual Opamp, SOIC-8/DIP-8/SSOP-8/TO-99
+K dual opamp
+F ~
+$ENDCMP
+#
+$CMP V4PAL45
+D Schottky diode
+K diode Schottky
+F ~
+$ENDCMP
+#
+#End Doc Library
